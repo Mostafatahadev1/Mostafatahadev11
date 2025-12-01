@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Mostafa Taha</h1>
-<h3 align="center">Full Stack .NET Developer | Aspiring Software Engineer</h3>
+<h3 align="center">Backend Asp.NET Developer | Aspiring Software Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mostafataha&label=Profile%20Views&color=blue&style=flat" alt="views" />
